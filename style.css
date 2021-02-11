@@ -1,0 +1,42 @@
+body{
+    margin: 0;
+    font-family: 'Slabo 27px', serif;
+}
+h1{
+    font-size: 50px;
+}
+h2{
+    font-size: 50px;
+}
+p{
+    color: dimgray;
+}
+.name{
+    color: yellow;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+    margin-bottom: 20px;
+}
+.half-width img{
+    width: 100%;
+}
+.top-bann{
+    background-image: url("top.bann.png");
+    background-repeat: no-repeat;
+}
+section{
+    height: 50px;
+    margin-bottom: 10px;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(45deg, lightsalmon,tomato);
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+}
